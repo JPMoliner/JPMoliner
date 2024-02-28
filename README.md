@@ -8,10 +8,10 @@
 
 
 <a href="https://github.com/JPMoliner/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JPMoliner&show_icons=true&theme=dracula" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=JPMoliner&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/JPMoliner/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JPMoliner&layout=donut&theme=dracula&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JPMoliner&layout=donut&theme=dracula&langs_count=8&card_width=320" />
 </a>
 
 
