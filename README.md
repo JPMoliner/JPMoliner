@@ -1,7 +1,6 @@
 ### Hello There 👋
 
-- 🔭 I'm currently looking for a job
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning TS
 - 📫 You can reach me on my email: joaopedro.moliner@gmail.com
 - 😄 Pronouns: He/Him
 - 😉 You can call me Pepe, it's easier and I like it
