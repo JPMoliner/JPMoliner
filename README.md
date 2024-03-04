@@ -40,5 +40,17 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java" /><br>
 </div>
 
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<table border="0">
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=JPMoliner&show_icons=true&locale=en&theme=react&border_radius=10" alt="JPMoliner's GitHub Stats" style="padding: 4px;" /></td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JPMoliner&theme=react&border_radius=10" alt="JPMoliner's GitHub Streak" style="padding: 4px;" /></td>
+  </tr>
+</table>
+
+
 <br/>
+
 
