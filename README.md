@@ -8,8 +8,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Bravo Brasil**
- 
  🌱 I’m currently learning **TypeScript, Node.js and JavaScript**
 
  😉 You can call me **Pepe**, it's easier and I like it
