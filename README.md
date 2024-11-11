@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **TypeScript, Node.js and JavaScript**
+ 🌱 I’m currently learning **Node.js and JavaScript**
 
  😉 You can call me **Pepe**, it's easier and I like it
 
