@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Node.js and JavaScript**
+ 🌱 I’m currently learning **database management using Docker, DBeaver, and SQL**.
 
  😉 You can call me **Pepe**, it's easier and I like it
 
@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,docker,mysql" /><br>
 </div>
 
 <hr/>
