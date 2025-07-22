@@ -32,41 +32,30 @@
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-  
 </div>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JPMoliner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <!-- GitHub Overview -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JPMoliner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
+       alt="JPMoliner's GitHub stats" 
+       width="400" 
+       height="200"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPMoliner&theme=algolia&border_radius=10" 
+       alt="JPMoliner's GitHub Streak" 
+       width="400" 
+       height="200"/>
 </div>
 
+<!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPMoliner&theme=algolia&border_radius=10" alt="JPMoliner's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JPMoliner&theme=react-dark&bg_color=20232a&hide_border=true" 
+       width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JPMoliner&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro.moliner@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopedro-moliner)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPMoliner)
-  
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JPMoliner/JPMoliner/output/snake.svg" alt="Snake animation" />
-</div>
