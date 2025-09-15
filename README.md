@@ -4,14 +4,15 @@
 
 ## 🚀 About Me
 
-> **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+> *"Code is like humor. When you have to explain it, it's bad."*
 
-🔭 **Currently Working On:** Building modern web applications with React and TypeScript  
-🌱 **Learning:** Database management using Docker, DBeaver, and SQL  
+
+🔭 **Currently Working On:** Programming automations for Booking.com  
+🌱 **Learning:** Database management and n8n for automations & agents  
 😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** When I was younger, I used to like using the command `cd /tree` on cmd because it made me look like a hacker  
-🎯 **Goal:** Become a full-stack developer and contribute to open source projects  
-📫 **Reach me:** joaopedro.moliner@gmail.com  
+⚡ **Fun Fact:** When I was younger I used `cd /tree` on cmd because it made me look like a hacker  
+📫 **Reach me:** joaopedro.moliner@gmail.com
+
 
 <div align="center">
   <hr style="height: 4px; width: 80%; border: none; background: linear-gradient(to right, #001F3F, #39CCCC, #7FDBFF);" />
